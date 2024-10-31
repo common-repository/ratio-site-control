@@ -1,0 +1,70 @@
+# Copyright (C) 2017 ratio
+# This file is distributed under the same license as the ratio package.
+msgid ""
+msgstr ""
+"Project-Id-Version: ratio\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ratio.php:35
+msgid "Ratio requires PHP 5.3. Please upgrade PHP or deactivate plugin."
+msgstr ""
+
+#: admin/class-ratio-admin-facebook.php:58
+msgid "Social media"
+msgstr ""
+
+#: admin/class-ratio-admin-facebook.php:112
+msgid "Your App Id does not seem to be right. It should be a number like 456789012345678"
+msgstr ""
+
+#: admin/class-ratio-admin-facebook.php:126
+msgid "To Add Facebook functionality you will need to add the SDK and your App Id. "
+msgstr ""
+
+#: admin/class-ratio-admin-google.php:51
+msgid "Google Analytics"
+msgstr ""
+
+#: admin/class-ratio-admin-google.php:103
+msgid "Your Tracking Id does not seem to be right. It should be something like UA-123456-12!"
+msgstr ""
+
+#: admin/partials/ratio-admin-facebook.php:17
+msgid "Facebook settings"
+msgstr ""
+
+#: admin/partials/ratio-admin-facebook.php:23, admin/partials/ratio-admin-google.php:24
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/ratio-admin-google.php:17
+msgid "Google analytics"
+msgstr ""
+
+#: admin/partials/ratio-admin.php:18
+msgid "Ratio. Site Control."
+msgstr ""
+
+#: admin/partials/ratio-admin.php:31
+msgid "Ratio. Site control plugin"
+msgstr ""
+
+#: admin/partials/ratio-admin.php:34
+msgid "This plugin was built to have a plugin for adding your most wanted scripts to your site."
+msgstr ""
+
+#: admin/partials/ratio-admin.php:59
+msgid "Issues? Feature requests?"
+msgstr ""
+
+#: admin/partials/ratio-admin.php:64
+msgid "Feel free to submit issues and feature requests at wordpress.org"
+msgstr ""
